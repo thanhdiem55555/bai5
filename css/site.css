@@ -1,0 +1,240 @@
+body{
+    font-family: Tahoma;
+    font-size: 20px;
+    width: 1000px;
+    margin: 0px auto;
+}
+.header img{
+    font-size: large;
+}
+.mid{
+    border:1px solid black;
+    width:100px;
+    height:25px;
+    border-radius: 30px/80px;
+    position: relative;
+    bottom: 90px;
+    margin-left: 500px;
+}
+.mid p{
+    position: relative;
+    bottom: 7px;
+    font-size: 13px;
+}
+.sup{
+    border:1px solid black;
+    width:70px;
+    height:25px;
+    border-radius: 30px/80px;
+    position: relative;
+    bottom: 117px;
+    margin-left: 615px;
+}
+.sup p{
+    position: relative;
+    bottom: 9px;
+    font-size: 14px;
+}
+.hip{
+    border:1px solid black;
+    width:150px;
+    height:25px;
+    border-radius: 30px/80px;
+    position: relative;
+    bottom: 145px;
+    margin-left: 700px;
+}
+.hip p{
+    position: relative;
+    bottom: 8px;
+    font-size: 14px;
+}
+.hop{
+    border:1px solid black;
+    width:200px;
+    height:25px;
+    border-radius: 30px/80px;
+    position: relative;
+    bottom: 172px;
+    margin-left: 867px;  
+}
+.hop p{
+    position: relative;
+    bottom: 8px;
+    font-size: 14px;
+}
+.menu{
+    background-color:#CC9900 ;
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    bottom: 122px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 75px;
+    position: relative;
+    top: 3px;
+}
+.lan img{
+    position: relative;
+    bottom: 115px;
+    width: 43%;
+}
+.chu ul{
+    list-style: none;
+    position: relative;
+    bottom: 120px;
+    right: 43px;
+}
+.lyna{
+    position: relative;
+    bottom: 472px;
+    margin-left: 449px;
+    height: 20px;
+    width: 50px;
+}
+.lyn ul{
+    list-style: none;
+    position: relative;
+    bottom: 247px;
+    left: 410px;
+    font-size: 15px;
+}
+.tama{
+    position: relative;
+    margin-left: 700px;
+    bottom: 593px;
+}
+.nhac .lac{
+    position: relative;
+    bottom: 680px;
+}
+.thu .trang{
+    position: relative;
+    bottom: 802px;
+    left: 230px;
+}
+.dinh .phuoc{
+    position: relative;
+    bottom: 925px;
+    left: 460px;
+}
+.dk1 ul{
+    list-style: none;
+    position: relative;
+    bottom: 940px;
+    right: 40px;
+    font-size: 16px;
+}
+.dk2 ul{
+    list-style: none;
+    position: relative;
+    bottom: 1007px;
+    left: 186px;
+    font-size: 16px;
+}
+.dk3 ul{
+    list-style: none;
+    position: relative;
+    bottom: 1060px;
+    font-size: 16px;
+    left: 420px;
+}
+.duyen{
+    position: relative;
+    bottom: 1050px;
+}
+.may ul{
+    list-style: none;
+    position: relative;
+    bottom:1205px ;
+    font-size: 16px;
+    left: 223px;
+}
+.may .ngoc ul{
+    font-size: 12px;
+}
+.xuan p{
+    border-left:5px solid yellow;
+    position: relative;
+    bottom: 1400px;
+    left: 700px;
+}
+.xuan .truong{
+    position: relative;
+    bottom: 1400px;
+    left: 700px;
+}
+.xuan ul{
+    list-style: none;
+    position: relative;
+    bottom: 1400px;
+    left: 660px;
+    font-size: 14px;
+}
+.xuan .thong ul{
+    font-size: 11.5px;
+}
+.boy{
+    position: relative;
+    bottom: 1380px;
+    left: 700px;
+}
+.bad ul{
+    position: relative;
+    bottom: 1450px;
+    left: 765px;
+    font-size: 12px;
+}
+.lan .khue {
+    width: 10%;
+    position: relative;
+    bottom: 1410px;
+    left: 700px;
+}
+.lan ul{
+    list-style: none;
+    font-size: 12px;
+    position: relative;
+    bottom: 1480px;
+    left: 767px;
+}
+.thanh{
+    position: relative;
+    bottom: 1700px;
+}
+.van ul{
+    list-style: none;
+    position: relative;
+    bottom: 1850px;
+    font-size: 16px;
+    left: 220px;
+}
+.le ul{
+    font-size: 12px;
+}
+.em{
+    position: relative;
+    bottom: 1780px;
+}
+.nam ul{
+    list-style: none;
+    position: relative;
+    bottom: 1930px;
+    font-size: 16px;
+    left: 220px;
+}
+.adc ul{
+    font-size: 12px;
+}
+.cuoi{
+ width: 150%;
+ height: 200px;
+ background-color: black;
+ position: relative;
+ bottom: 1850px;
+ right: 90px;
+}
